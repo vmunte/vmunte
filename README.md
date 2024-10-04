@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Vlad!
 
-<!--
-**vmunte/vmunte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="earlpeak.jpg"/>
 
-Here are some ideas to get you started:
+## I'm a senior at UW studying Atmospheric Sciences with a minor in Applied Math as well as a NOAA 2023 Ernest F. Hollings Scholar 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="_DSC3887.JPG"/>
+
+## My research interests include:
+* Climate Dynamics
+* Hydrological impacts of Climate Change
+* Anvil Clouds
+* Machine Learning Applications for Climate
+
