@@ -2,7 +2,10 @@
 
 <img src="earlpeak.jpg"/>
 
-## I'm a senior at UW studying Atmospheric Sciences with a minor in Applied Math as well as a NOAA 2023 Ernest F. Hollings Scholar 
+## A bit about me:
+* Senior at UW studying Atmospheric Sciences with a minor in Applied Math
+* NOAA 2023 Ernest F. Hollings Scholar
+* From Washington State
 
 <img src="_DSC3887.JPG"/>
 
@@ -11,4 +14,11 @@
 * Hydrological impacts of Climate Change
 * Anvil Clouds
 * Machine Learning Applications for Climate
+
+## My hobbies include:
+* Photography
+* Running
+* Hiking
+* Cooking
+* Underwater Basket Weaving
 
