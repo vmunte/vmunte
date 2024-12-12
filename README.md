@@ -1,13 +1,13 @@
 # Hi there, I'm Vlad!
 
-<img src="earlpeak.jpg"/>
+<img src="earlpeak.jpg" width=400 />
 
 ## A bit about me:
 * Senior at UW studying Atmospheric Sciences with a minor in Applied Math
 * NOAA 2023 Ernest F. Hollings Scholar
 * From Washington State
 
-<img src="_DSC3887.JPG"/>
+<img src="_DSC3887.JPG" width=500 />
 
 ## My research interests include:
 * Climate Dynamics
