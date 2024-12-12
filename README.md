@@ -1,6 +1,6 @@
 # Hi there, I'm Vlad!
 
-<img src="earlpeak.jpg" width=400 />
+<img src="earlpeak.jpg" width=500 />
 
 ## A bit about me:
 * Senior at UW studying Atmospheric Sciences with a minor in Applied Math
@@ -12,7 +12,6 @@
 ## My research interests include:
 * Climate Dynamics
 * Hydrological impacts of Climate Change
-* Anvil Clouds
 * Machine Learning Applications for Climate
 
 ## My hobbies include:
